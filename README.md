@@ -5,18 +5,22 @@ This tool will upgrade slowly  until that a big bug in it ......
 <br/>
 
 Using this tool ,you can generate your repository layer quickly.
+<br/>
 The basic methods type:CRUD.
+<br/>
 Create
 ---using single or mulity mode
+<br/>
 Read
 ---using lambda expression to gernerte the condion
 ---suppor  paging 
+<br/>
 Update
 --using id or expression
-
+<br/>
 Delete
 
 --using id or expression
-
+<br/>
 Congratulations!!!!!!!!!!
 
