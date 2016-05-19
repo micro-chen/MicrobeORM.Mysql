@@ -25,4 +25,7 @@ Delete
 --using id or expression
 <br/>
 Congratulations!!!!!!!!!!
+<hr/>
+
+In version 2.0 ,with Nunit Test and show how to use...
 
