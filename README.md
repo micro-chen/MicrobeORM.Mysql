@@ -28,4 +28,13 @@ Congratulations!!!!!!!!!!
 <hr/>
 
 In version 2.0 ,with Nunit Test and show how to use...
+<br/>
+i think this may be the most highly frequency operation of the data layer.
+insert one or insert mulity.
+read by identity or by conditon.
+update an entity or by condition.
+delete an entity or be condition.
 
+orther complex operation ,you can use execute sql or use procture or funtion....
+at the NUnit Project.you can compare the performance of this tool and the native ADO.NET provider by mysql....
+singel may slow ,but mulity is fast!!
